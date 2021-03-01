@@ -8,7 +8,12 @@
     "build": "webpack"
   },
   "devDependencies": {
-    "webpack": "^4.40.2",
-    "webpack-cli": "^3.3.9"
+    "webpack": "^4.46.0",
+    "webpack-cli": "^3.3.12"
+  },
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "serve": "^11.3.2"
   }
 }
